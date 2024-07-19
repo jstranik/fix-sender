@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fix-sender"
+  site-url: "https://jstranik.github.io/fix-sender"
+  description: "Tester For Sending Fix Messages"
+  repo-branch: main
+  repo-url: "https://github.com/jstranik/fix-sender"
